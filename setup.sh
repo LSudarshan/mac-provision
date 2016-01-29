@@ -1,1 +1,2 @@
-brew cask install sublime-text
+brew tap Homebrew/bundle
+brew bundle
